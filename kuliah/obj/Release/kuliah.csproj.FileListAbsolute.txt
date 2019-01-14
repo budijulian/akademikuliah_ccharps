@@ -1,0 +1,15 @@
+F:\BelajarProgram\C#\kuliah\kuliah\bin\Release\kuliah.exe.config
+F:\BelajarProgram\C#\kuliah\kuliah\bin\Release\kuliah.exe
+F:\BelajarProgram\C#\kuliah\kuliah\bin\Release\kuliah.pdb
+F:\BelajarProgram\C#\kuliah\kuliah\bin\Release\MySql.Data.DLL
+F:\BelajarProgram\C#\kuliah\kuliah\obj\Release\kuliah.Home.resources
+F:\BelajarProgram\C#\kuliah\kuliah\obj\Release\kuliah.Input_Nilai.resources
+F:\BelajarProgram\C#\kuliah\kuliah\obj\Release\kuliah.Login1.resources
+F:\BelajarProgram\C#\kuliah\kuliah\obj\Release\kuliah.Mahasiswa.resources
+F:\BelajarProgram\C#\kuliah\kuliah\obj\Release\kuliah.Properties.Resources.resources
+F:\BelajarProgram\C#\kuliah\kuliah\obj\Release\kuliah.ShowNilai.resources
+F:\BelajarProgram\C#\kuliah\kuliah\obj\Release\kuliah.Show_Nsiswa.resources
+F:\BelajarProgram\C#\kuliah\kuliah\obj\Release\kuliah.SignUp.resources
+F:\BelajarProgram\C#\kuliah\kuliah\obj\Release\kuliah.csproj.GenerateResource.Cache
+F:\BelajarProgram\C#\kuliah\kuliah\obj\Release\kuliah.exe
+F:\BelajarProgram\C#\kuliah\kuliah\obj\Release\kuliah.pdb
